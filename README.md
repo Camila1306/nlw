@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://camila1306.github.io/nlw-esports-explore/)
+[:link: Clique aqui para acessar](https://camila1306.github.io/nlw-esports-explore/)
 
 ## :space_invader: Tecnologias
 
