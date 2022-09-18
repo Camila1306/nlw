@@ -1,12 +1,12 @@
 # nlw eSports
 
-![preview] (./.github/preview.png)
+![preview](./.github/preview.png)
 
 > Trilha Explorer
 
 Projeto construido no evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar] (https://camila1306.github.io/nlw-esports-explore/)
+[Clique aqui para acessar](https://camila1306.github.io/nlw-esports-explore/)
 
 ## :space_invader: Tecnologias
 
