@@ -16,4 +16,4 @@ Projeto construido no evento Next Level Week da Rocketseat
 
 ## :speech_balloon: Contato
 
-camilaax@gmail.com
+camilaa7x@gmail.com
